@@ -1,0 +1,21 @@
+body{
+background-repeat: no-repeat ;
+font-family: sans-serif;
+background-image:url("https://imgs.search.brave.com/FxthhUjKbPCMJmOhJoyioKxiOXKwLpIo3kGzxSfcQYg/rs:fit:600:900:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jb2Zm/ZWVzLXNob3BzLXRh/Ymxlcy1jaGFpcnMt/c25vdy1pY2Utd2lu/dGVyLXNlYXNvbi10/cmVlcy1yb2FkLWlv/YW5uaW5hLWNpdHkt/Z3JlZWNlLWNvZmZl/ZXMtc2hvcHMtdGFi/bGVzLWNoYWlycy0x/MzYxMDI5NjguanBn");
+
+}
+#not-body{
+    opacity: 1;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+h2{
+    font-size:45px;
+    color:white;
+    text-align: center;
+}
+/* .count{
+
+} */
